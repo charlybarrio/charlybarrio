@@ -33,7 +33,11 @@
 
 <h2 align="center">GitHub Stats</h2>
 <div align="center">
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=charlybarrio&theme=neon-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=charlybarrio&theme=transparent&border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlybarrio&border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
