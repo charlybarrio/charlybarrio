@@ -3,7 +3,7 @@
 <br>
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjE3ODdjMTVmY2IyYjZkOTIxNjAyYjMxNjNiMzQyMTI1NzdlMTZjOSZjdD1n/dv6t1fuAPrYHM5mJyT/giphy.gif" width=60% height=60%></img>
 <br>
-<h3 align="center">Studing software developer in Holberton School</h3>
+<h3 align="center">Studing Full stack developer in Holberton School</h3>
 <h3 align="center">📍 Uruguay</h3>
 </div>
 
@@ -11,9 +11,9 @@
 
 <h3 align="center"> 📫 How to contact me: </h3>
 <div align="center">
-<a href="carlos-barrio@hotmail.com"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Email&color=ea4335&logo=Gmail&logoColor=FFFFFF&label=" /></a>
-<a href="https://www.linkedin.com/in/carlos-j-barrio/"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0a66c2&logo=LinkedIn&logoColor=FFFFFF&label=" /></a>
-<a href="carlosbarrio.cb96@gmail.com> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+&ensp;[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:carlosbarrio.cb960@gmail.com)
+&ensp;[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/carlos-j-barrio/)
+&ensp;[<img src="https://img.shields.io/badge/Outlook-%230077B5.svg?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:carlos-barrio@hotmail.com)
 </div>
 
 #
