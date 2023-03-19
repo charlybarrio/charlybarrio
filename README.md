@@ -36,6 +36,7 @@
 <p align="center">
  <img src="https://github-readme-streak-stats.herokuapp.com?user=charlybarrio&theme=darcula&hide_border=true&background=FFFFFF00" alt="salvaborit" />
 <div align="center">
+
  [![Charlys's GitHub stats](https://github-readme-stats.vercel.app/api?username=charlybarrio&theme=darcula&hide_border=true&background=FFFFFF00")](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlybarrio&theme=darcula&hide_border=true&background=FFFFFF00"&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
