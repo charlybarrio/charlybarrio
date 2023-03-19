@@ -32,12 +32,11 @@
 ---
 
 <h2 align="center">GitHub Stats</h2>
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=charlybarrio&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-[![Charlys's GitHub stats](https://github-readme-stats.vercel.app/api?username=charlybarrio&hide_border=true&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlybarrio&hide_border=true&theme=darcula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
+ <br>
+<p align="center">
+ <!-- <img src="https://github-readme-stats.vercel.app/api?username=charlybarrio&show_icons=true&count_private=true&theme=darcula&hide_title=true&hide_border=true&hide=issues,contribs&bg_color=00000000"  alt="salvaborit" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlybarrio&layout=compact&hide_border=true&theme=darcula&hide_title=true&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,m,css,php" alt="salvaborit" /> -->
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=charlybarrio&theme=darcula&hide_border=true&background=FFFFFF00" alt="salvaborit" />
+ <br>
+ <br>
+</p>
