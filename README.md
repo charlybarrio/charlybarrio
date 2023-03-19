@@ -1,7 +1,7 @@
 <div id="header" align="center">
 <h1 align="cente">Hi! I'm Carlos Barrio. Welcome to mi Github</h1>
 <br>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjE3ODdjMTVmY2IyYjZkOTIxNjAyYjMxNjNiMzQyMTI1NzdlMTZjOSZjdD1n/dv6t1fuAPrYHM5mJyT/giphy.gif" width=60% height=100%></img>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjE3ODdjMTVmY2IyYjZkOTIxNjAyYjMxNjNiMzQyMTI1NzdlMTZjOSZjdD1n/dv6t1fuAPrYHM5mJyT/giphy.gif" width=60% height=60%></img>
 <br>
 <h3 align="center">Studing software developer in Holberton School</h3>
 <h3 align="center">📍 Uruguay</h3>
@@ -34,10 +34,10 @@
 <h2 align="center">GitHub Stats</h2>
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=charlybarrio&theme=neon-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=charlybarrio&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=charlybarrio&theme=transparent&border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Charlys's GitHub stats](https://github-readme-stats.vercel.app/api?username=charlybarrio&hide_border=true&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlybarrio&border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlybarrio&hide_border=true&theme=darcula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
