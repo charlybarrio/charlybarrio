@@ -36,9 +36,10 @@
 <p align="center">
  <img src="https://github-readme-streak-stats.herokuapp.com?user=charlybarrio&theme=darcula&hide_border=true&background=FFFFFF00" alt="salvaborit" />
 <div align="center">
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=agusMz1908&repo=pos_ims_app&theme=dark)](https://github.com/agusMz1908/pos_ims_app)
+ [![Charlys's GitHub stats](https://github-readme-stats.vercel.app/api?username=charlybarrio&theme=darcula&hide_border=true&background=FFFFFF00")](https://github.com/anuraghazra/github-readme-stats)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=salvaborit&repo=pos_ims_api&theme=dark)](https://github.com/salvaborit/pos_ims_api)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlybarrio&theme=darcula&hide_border=true&background=FFFFFF00"&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 </div> 
 <br>
  <br>
