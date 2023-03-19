@@ -31,7 +31,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="CSS3 logo" width=4.3% heigth=4.3%></img>
   <a  href="https://www.gnu.org/software/bash/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png" alt="BASH logo" width=5% heigth=5%></img></a>
   <a  href="https://github.com/"><img src="https://cdn-icons-png.flaticon.com/512/919/919847.png" alt="GitHub logo" width=5% heigth=5%></img></a>
-  <a  href="https://lookerstudio.google.com/"><img src="https://cdn.imgbin.com/21/1/13/imgbin-google-analytics-360-suite-google-public-data-explorer-google-search-console-google-p4uBP0XLiW0VTYsSHe3iVN86j.jpg" alt="Datastudio logo" width=5% heigth=5%></img></a>
+  <a  href="https://e-cens.com/wp-content/uploads/elementor/thumbs/google-data-studio-logo_e-cens_training-plbnc8lo3u3s8qo0m9ub5vp4x4t0yejfte7dzqk85g.png" alt="Datastudio logo" width=5% heigth=5%></img></a>
 </div>
 
 ---
