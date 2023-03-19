@@ -11,9 +11,13 @@
 
 <h3 align="center"> 📫 How to contact me: </h3>
 <div align="center">
+  
 &ensp;[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:carlosbarrio.cb960@gmail.com)
+  
 &ensp;[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/carlos-j-barrio/)
+  
 &ensp;[<img src="https://img.shields.io/badge/Outlook-%230077B5.svg?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:carlos-barrio@hotmail.com)
+  
 </div>
 
 #
