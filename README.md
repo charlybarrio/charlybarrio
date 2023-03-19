@@ -1,7 +1,7 @@
 <div id="header" align="center">
 <h1 align="cente">Hi! I'm Carlos Barrio. Welcome to mi Github</h1>
 <br>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjE3ODdjMTVmY2IyYjZkOTIxNjAyYjMxNjNiMzQyMTI1NzdlMTZjOSZjdD1n/dv6t1fuAPrYHM5mJyT/giphy.gif" width=100% height=60%></img>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjE3ODdjMTVmY2IyYjZkOTIxNjAyYjMxNjNiMzQyMTI1NzdlMTZjOSZjdD1n/dv6t1fuAPrYHM5mJyT/giphy.gif" width=60% height=100%></img>
 <br>
 <h3 align="center">Studing software developer in Holberton School</h3>
 <h3 align="center">📍 Uruguay</h3>
