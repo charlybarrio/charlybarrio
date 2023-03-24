@@ -32,6 +32,7 @@
   <a  href="https://www.gnu.org/software/bash/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png" alt="BASH logo" width=5% heigth=5%></img></a>
   <a  href="https://github.com/"><img src="https://cdn-icons-png.flaticon.com/512/919/919847.png" alt="GitHub logo" width=5% heigth=5%></img></a>
   <a  href="https://lookerstudio.google.com/"><img src="https://cdn.worldvectorlogo.com/logos/google-data-studio.svg" alt="Datastudio logo" width=5% heigth=5%></img></a>
+  <a  href="https://flutter.dev/?gclid=EAIaIQobChMIxZbUifr0_QIVwRPUAR0G5gu9EAAYASAAEgKgAfD_BwE&gclsrc=aw.ds"><img src="https://img.icons8.com/fluency/256/flutter.png" alt="Flutter logo" width=5% heigth=5%></img></a>
 </div>
 
 ---
